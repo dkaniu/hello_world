@@ -6,3 +6,5 @@ The quick brown fox jumps over the lazy dogs.
 
 on github, saved changes are called commits. 
 each commit has an associated commit message
+
+===EOF====
